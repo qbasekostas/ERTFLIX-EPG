@@ -2,5 +2,5 @@
 <!-- service references can be found in /etc/enigma2/lamedb -->
 <channels>
 <!-- ERTFLIX -->
-<channel id="ert.ertchristmas.gr">5002:0:1:0:0:0:0:0:18:29:http%3a//example.com</channel> <!-- ERT CHRISTMAS -->
+<channel id="ERT CHRISTMAS">5002:0:1:0:0:0:0:0:18:29:http%3a//example.com</channel> <!-- ERT CHRISTMAS -->
 </channels>
