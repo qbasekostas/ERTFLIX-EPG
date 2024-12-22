@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!-- service references can be found in /etc/enigma2/lamedb -->
+<channels>
+<!-- ERTFLIX -->
+<channel id="ert.ertkids.gr">1:0:1:0:0:0:0:0:18:28:http%3a//example.com</channel> <!-- ERT KIDS -->
+<channel id="ert.ertsports1.gr">1:0:1:0:0:0:0:0:13:13:http%3a//example.com</channel> <!-- ERT SPORTS 1 -->
+<channel id="ert.ertsports2.gr">1:0:1:0:0:0:0:0:13:14:http%3a//example.com</channel> <!-- ERT SPORTS 2 -->
+<channel id="ert.ertchristmas.gr">5002:0:1:0:0:0:0:0:18:29:http%3a//example.com</channel> <!-- ERT CHRISTMAS -->
+</channels>
