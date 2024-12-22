@@ -1,3 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="EPG_ERTFLIX" generator-info-url="https://github.com/qbasekostas/ERTFLIX-EPG">
+<channel id="ERT CHRISTMAS">
+    <display-name>ERT CHRISTMAS</display-name>
+  </channel>
 <tv date="20241222153304">
   <programme channel="ERT CHRISTMAS" stop="202412221930" start="202412221800">
     <title lang="gr">Ματίλντα [K8]</title>
