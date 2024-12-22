@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
+
 <tv generator-info-name="EPG_ERTFLIX" generator-info-url="https://github.com/qbasekostas/ERTFLIX-EPG">
+  
 <channel id="ERT CHRISTMAS">
 <display-name>ERT CHRISTMAS</display-name>
 </channel>
+  
 <programme start="202412220000 +0200" stop="202412221800 +0200" channel="ERT CHRISTMAS">
-<title lang="el">Το Νέο Χριστουγεννιάτικο Κανάλι του ERTFLIX</title>
+<title>Το Νέο Χριστουγεννιάτικο Κανάλι του ERTFLIX</title>
 <desc>Ψυχαγωγία</desc>
 </programme>
 <programme start="202412221800 +0200" stop="202412221930 +0200" channel="ERT CHRISTMAS">
-<title lang="el">Ματίλντα [K8]</title>
+<title>Ματίλντα [K8]</title>
 <desc>Έτος παραγωγής: 1996 Η εξάχρονη Ματίλντα είναι ένα ιδιαίτερο, πανέξυπνο και αξιολάτρευτο κορίτσι που λατρεύει το διάβασμα, αλλά οι γονείς της την κακομεταχειρίζονται επειδή είναι διαφορετική από αυτούς. Σκηνοθεσία: Ντάνι Ντε ΒίτοΣενάριο: Νίκολας Καζάν, Ρόμπιν ΣουίκορντΠρωταγωνιστούν: Ντάνι Ντε Βίτο, Μάρα Γουίλσον, Έμπεθ Ντάβιτζ, Παμ Φέρις, Ρέα Πέρλμαν, Μπράιαν Λέβινσον</desc>
 </programme>
 <programme start="202412221930 +0200" stop="202412222052 +0200" channel="ERT CHRISTMAS">
