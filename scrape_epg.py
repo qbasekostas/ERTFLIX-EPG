@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import xml.etree.ElementTree as ET
 
 # Define the URL to scrape
-url = "https://www.ertflix.gr/epg/channel/ert-christmas"
+url = "https://www.ertflix.gr/epg"
 
 # Send a GET request to the URL
 response = requests.get(url)
