@@ -8,7 +8,7 @@ def convert_to_unix_time(epg_time):
     return int(dt.timestamp())
 
 # Parse the input XML file
-tree = ET.parse('EPG_ERTFLIX.xml')
+tree = ET.parse('https://github.com/qbasekostas/ERTFLIX-EPG/blob/main/EPG_ERTFLIX.xml')
 root = tree.getroot()
 
 # Create the root element for Enigma2 EPG format
@@ -40,4 +40,4 @@ for programme in root.findall('programme'):
 enigma2_tree = ET.ElementTree(enigma2_root)
 enigma2_tree.write('EPG_Enigma2.xml', encoding='utf-8', xml_declaration=True)
 
-print("Conversion complete. The Enigma2 EPG data has been saved to 'EPG_Enigma2.xml'.")
+print("Conversion complete. The Enigma2 EPG data has been saved to 'https://github.com/qbasekostas/ERTFLIX-EPG/blob/main/EPG_Enigma2.xml'.")
