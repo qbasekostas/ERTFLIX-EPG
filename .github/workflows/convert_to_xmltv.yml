@@ -1,4 +1,4 @@
-name: Convert EPG Data to Enigma2 Format
+name: Convert EPG Data to XMLTV Format
 
 on:
   push:
@@ -22,9 +22,9 @@ jobs:
         python -m pip install --upgrade pip
         pip install xmltodict
 
-    - name: Convert EPG XML to Enigma2 XML
+    - name: Convert EPG XML to XMLTV XML
       run: |
-        python convert_epg.py
+        python convert_to_xmltv.py
 
     - name: Commit and push converted EPG
       run: |
