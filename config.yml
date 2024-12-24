@@ -1,0 +1,15 @@
+# config.yml
+
+# URL of the ERT program search page
+url: "https://www.ertflix.gr/epg/channel/ert-christmas"
+
+# HTML parsing settings
+parsing:
+  program_selector: "div.epg-program"    # CSS selector for the EPG program entries
+  time_selector: "span.epg-time"         # CSS selector for the time
+  title_selector: "span.epg-title"       # CSS selector for the title
+  description_selector: "span.epg-description" # CSS selector for the description
+
+# Output file settings
+output:
+  file_path: "epg.xml"                   # Path to save the generated XML file
