@@ -34,5 +34,5 @@ def convert_epg(input_file, output_file):
 
 if __name__ == "__main__":
     input_file = "ERT_Christmas_EPG.xml"
-    output_file = "converted_EPG.xml"
+    output_file = "converted_EPG.xml.gz"
     convert_epg(input_file, output_file)
