@@ -1,5 +1,6 @@
 import xml.etree.ElementTree as ET
 from datetime import datetime
+import gzip
 
 def convert_time_format(time_str):
     # Convert time format from "YYYYMMDDHHMMSS" to "YYYYMMDDHHMMSS +0200"
@@ -30,7 +31,10 @@ def convert_epg(input_file, output_file):
             desc_element.text = desc.text
 
     new_tree = ET.ElementTree(new_root)
-    new_tree.write(output_file, encoding='utf-8', xml_declaration=True)
+    
+    # Write to a gzip file
+    with gzip.open(output_file, 'wb') as f:
+        new_tree.write(f, encoding='utf-8', xml_declaration=True)
 
 if __name__ == "__main__":
     input_file = "ERT_Christmas_EPG.xml"
