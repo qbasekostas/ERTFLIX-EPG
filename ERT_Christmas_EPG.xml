@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
+<tv>
   <channel id="ERTChristmas">
     <display-name>ERT CHRISTMAS</display-name>
   </channel>
@@ -98,3 +99,4 @@
     <title lang="gr">Το Νέο Χριστουγεννιάτικο Κανάλι του ERTFLIX </title>
     <desc lang="gr">Ψυχαγωγία</desc>
   </programme>
+ </tv>
