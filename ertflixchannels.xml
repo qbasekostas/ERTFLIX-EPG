@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?> 
 <channels>
 <!-- ERTFLIX -->
-<channel id="ERTChristmas">1:0:1:1313:1313:0:0:0:0:0:http%3a//example.com</channel> <!-- ERT CHRISTMAS -->
+<channel id="ERTChristmas">5002:0:1:1313:1313:0:0:0:0:0:http%3a//example.com</channel> <!-- ERT CHRISTMAS -->
 </channels>
