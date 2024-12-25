@@ -13,6 +13,11 @@ def convert_epg(input_file, output_file):
 
     new_root = ET.Element("tv")
 
+    # Add the <channel> element
+    channel_element = ET.SubElement(new_root, "channel", id="ERTChristmas")
+    display_name_element = ET.SubElement(channel_element, "display-name")
+    display_name_element.text = "ERT CHRISTMAS"
+
     for programme in root.findall('programme'):
         start = convert_time_format(programme.get('start'))
         stop = convert_time_format(programme.get('stop'))
@@ -31,7 +36,7 @@ def convert_epg(input_file, output_file):
             desc_element.text = desc.text
 
     new_tree = ET.ElementTree(new_root)
-    
+
     # Write to a gzip file
     with gzip.open(output_file, 'wb') as f:
         new_tree.write(f, encoding='utf-8', xml_declaration=True)
