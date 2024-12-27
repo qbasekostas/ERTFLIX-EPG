@@ -1,26 +1,18 @@
 import xml.etree.ElementTree as ET
 from datetime import datetime
 import gzip
+from xml.dom import minidom
 
 def convert_time_format(time_str):
     # Convert time format from "YYYYMMDDHHMM" to "YYYYMMDDHHMM +0200"
     dt = datetime.strptime(time_str, "%Y%m%d%H%M")
     return dt.strftime("%Y%m%d%H%M") + " +0200"
 
-def indent(elem, level=0):
-    i = "\n" + level * "  "
-    if len(elem):
-        if not elem.text or not elem.text.strip():
-            elem.text = i + "  "
-        if not elem.tail or not elem.tail.strip():
-            elem.tail = i
-        for subelem in elem:
-            indent(subelem, level + 1)
-        if not elem.tail or not elem.tail.strip():
-            elem.tail = i
-    else:
-        if level and (not elem.tail or not elem.tail.strip()):
-            elem.tail = i
+def prettify(elem):
+    """Return a pretty-printed XML string for the Element."""
+    rough_string = ET.tostring(elem, 'utf-8')
+    reparsed = minidom.parseString(rough_string)
+    return reparsed.toprettyxml(indent="  ")
 
 def convert_epg(input_file, output_file):
     tree = ET.parse(input_file)
@@ -47,15 +39,14 @@ def convert_epg(input_file, output_file):
 
         desc = programme.find('desc')
         if desc is not None:
-            desc_element = ET.SubElement(new_programme, "desc", lang="el")
+            desc_element = ET.SubElement(new_programme, "desc")
             desc_element.text = desc.text
 
-    indent(new_root)  # Indent the XML tree for pretty printing
-    new_tree = ET.ElementTree(new_root)
+    pretty_xml_as_string = prettify(new_root)
 
     # Write to a gzip file
     with gzip.open(output_file, 'wb') as f:
-        new_tree.write(f, encoding='utf-8', xml_declaration=True)
+        f.write(pretty_xml_as_string.encode('utf-8'))
 
 if __name__ == "__main__":
     input_file = "ERT_Christmas_EPG.xml"
