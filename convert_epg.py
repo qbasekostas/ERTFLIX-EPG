@@ -3,9 +3,9 @@ from datetime import datetime
 import gzip
 
 def convert_time_format(time_str):
-    # Convert time format from "YYYYMMDDHHMMSS" to "YYYYMMDDHHMMSS +0200"
+    # Convert time format from "YYYYMMDDHHMM" to "YYYYMMDDHHMM +0200"
     dt = datetime.strptime(time_str, "%Y%m%d%H%M%S")
-    return dt.strftime("%Y%m%d%H%M%S") + " +0200"
+    return dt.strftime("%Y%m%d%H%M") + " +0200"
 
 def convert_epg(input_file, output_file):
     tree = ET.parse(input_file)
