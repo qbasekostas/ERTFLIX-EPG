@@ -4,7 +4,7 @@ import gzip
 
 def convert_time_format(time_str):
     # Convert time format from "YYYYMMDDHHMM" to "YYYYMMDDHHMM +0200"
-    dt = datetime.strptime(time_str, "%Y%m%d%H%M%S")
+    dt = datetime.strptime(time_str, "%Y%m%d%H%M")
     return dt.strftime("%Y%m%d%H%M") + " +0200"
 
 def convert_epg(input_file, output_file):
