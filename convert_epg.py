@@ -7,6 +7,21 @@ def convert_time_format(time_str):
     dt = datetime.strptime(time_str, "%Y%m%d%H%M")
     return dt.strftime("%Y%m%d%H%M") + " +0200"
 
+def indent(elem, level=0):
+    i = "\n" + level * "  "
+    if len(elem):
+        if not elem.text or not elem.text.strip():
+            elem.text = i + "  "
+        if not elem.tail or not elem.tail.strip():
+            elem.tail = i
+        for subelem in elem:
+            indent(subelem, level + 1)
+        if not elem.tail or not elem.tail.strip():
+            elem.tail = i
+    else:
+        if level and (not elem.tail or not elem.tail.strip()):
+            elem.tail = i
+
 def convert_epg(input_file, output_file):
     tree = ET.parse(input_file)
     root = tree.getroot()
@@ -32,9 +47,10 @@ def convert_epg(input_file, output_file):
 
         desc = programme.find('desc')
         if desc is not None:
-            desc_element = ET.SubElement(new_programme, "desc")
+            desc_element = ET.SubElement(new_programme, "desc", lang="el")
             desc_element.text = desc.text
 
+    indent(new_root)  # Indent the XML tree for pretty printing
     new_tree = ET.ElementTree(new_root)
 
     # Write to a gzip file
