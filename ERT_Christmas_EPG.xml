@@ -4,8 +4,8 @@
     <display-name>ERT CHRISTMAS</display-name>
   </channel>
    <programme channel="ERTChristmas" stop="202501020600" start="202501012331">
-    <title lang="pt">Το Νέο Χριστουγεννιάτικο Κανάλι του ERTFLIX </title>
-    <sub-title lang="pt"/>
+    <title lang="el">Το Νέο Χριστουγεννιάτικο Κανάλι του ERTFLIX </title>
+    <sub-title lang="el"/>
     <desc lang="pt">Ψυχαγωγία</desc>
     <length units="minutes">389</length>
     <rating>
@@ -14,8 +14,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501021200" start="202501020600">
-    <title lang="pt">Το Νέο Χριστουγεννιάτικο Κανάλι του ERTFLIX </title>
-    <sub-title lang="pt"/>
+    <title lang="el">Το Νέο Χριστουγεννιάτικο Κανάλι του ERTFLIX </title>
+    <sub-title lang="el"/>
     <desc lang="pt">Ψυχαγωγία</desc>
     <length units="minutes">360</length>
     <rating>
@@ -24,8 +24,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501021800" start="202501021200">
-    <title lang="pt">Το Νέο Χριστουγεννιάτικο Κανάλι του ERTFLIX </title>
-    <sub-title lang="pt"/>
+    <title lang="el">Το Νέο Χριστουγεννιάτικο Κανάλι του ERTFLIX </title>
+    <sub-title lang="el"/>
     <desc lang="pt">Ψυχαγωγία</desc>
     <length units="minutes">360</length>
     <rating>
@@ -34,8 +34,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501021924" start="202501021800">
-    <title lang="pt">Χριστουγεννιάτικο Φιλί [A Kiss for Christmas (Inn for Christmas)]</title>
-    <sub-title lang="pt"/>
+    <title lang="el">Χριστουγεννιάτικο Φιλί [A Kiss for Christmas (Inn for Christmas)]</title>
+    <sub-title lang="el"/>
     <desc lang="pt">Έτος παραγωγής: 2020 Η Μάντι Λιντς είναι μια επιτυχημένη νεαρή γυναίκα: Ζει στο Μαϊάμι και ανεβαίνει την εταιρική κλίμακα στον ξενοδοχειακό κλάδο. Δεν επισκέπτεται συχνά το πατρικό της, αλλά φέτος η γιαγιά της την έπεισε επιτέλους να έρθει σπίτι της. Σκηνοθεσία: Τζέσε ΆικαμανΣενάριο: Κόρτνι Μακάλιστερ, Μαργκότ Μάλινσον</desc>
     <length units="minutes">84</length>
     <rating>
@@ -44,8 +44,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501022053" start="202501021924">
-    <title lang="pt">Noel </title>
-    <sub-title lang="pt"/>
+    <title lang="el">Noel </title>
+    <sub-title lang="el"/>
     <desc lang="pt">Έτος παραγωγής: 2004 Παραμονή Χριστουγέννων στη Νέα Υόρκη και η μοναχική διαζευγμένη εκδότρια Ρόουζ Κόλινς χρειάζεται ένα θαύμα για να βελτιώσει την υγεία της μητέρας της, που νοσηλεύεται σε νοσοκομείο με Αλτσχάιμερ. Σκηνοθεσία: Τσαζ ΠαλμιντέριΣενάριο: Ντέιβιντ ΧάμπαρντΠρωταγωνιστούν: Σούζαν Σάραντον, Πενέλοπε Κρούζ, Πολ Γουόκερ, Τσαζ Παλμιντέρι, Άλαν Άρκιν, Μάρκους Τόμας</desc>
     <length units="minutes">89</length>
     <rating>
@@ -54,8 +54,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501022245" start="202501022053">
-    <title lang="pt">Χριστούγεννα της Συμφοράς [This Christmas]</title>
-    <sub-title lang="pt"/>
+    <title lang="el">Χριστούγεννα της Συμφοράς [This Christmas]</title>
+    <sub-title lang="el"/>
     <desc lang="pt"> Η ιστορία των Γουίτφιλντς, μιας αφροαμερικανικής οικογένειας στα προάστια του Λος Άντζελες. Για πρώτη φορά μετά από χρόνια, όλα τα παιδιά και τα σημαντικά τους πρόσωπα θα βρεθούν κάτω από την ίδια στέγη για τα Χριστούγεννα. Σκηνοθεσία: Πρέστον Α.Γουίτμορ ΙΙΣενάριο: Πρέστον Α.Γουίτμορ ΙΙΠρωταγωνιστούν: Ίντρις Έλμπα, Κρις Μπράουν, Λορέτα Ντεβάιν, Ρετζίνα Κινγκ</desc>
     <length units="minutes">112</length>
     <rating>
@@ -64,8 +64,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501030011" start="202501022245">
-    <title lang="pt">Γράμματα στον Άγιο Βασίλη [A Christmas Post]</title>
-    <sub-title lang="pt"/>
+    <title lang="el">Γράμματα στον Άγιο Βασίλη [A Christmas Post]</title>
+    <sub-title lang="el"/>
     <desc lang="pt">Έτος παραγωγής: 2024 Όταν ο Νόα Χάρινγκτον ανακαλύπτει ένα γραμματοκιβώτιο με αλληλογραφία που δεν παραδόθηκε στον Άγιο Βασίλη από τη δεκαετία του 1990, συνεργάζεται με την ιστορικό της πόλης, Τέσσα Φίντλεϊ για να πραγματοποιήσουν τις ευχές. Σκηνοθεσία: Κόλιν ΜπαντςΣενάριο: Τζένιφερ ΣνόουΠρωταγωνιστούν: Μέριτ Πάτερσον, Κρίστοφερ Ράσελ, Κέιτ Τζέκινσον</desc>
     <length units="minutes">86</length>
     <rating>
@@ -74,8 +74,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501030600" start="202501030011">
-    <title lang="pt">Το Νέο Χριστουγεννιάτικο Κανάλι του ERTFLIX </title>
-    <sub-title lang="pt"/>
+    <title lang="el">Το Νέο Χριστουγεννιάτικο Κανάλι του ERTFLIX </title>
+    <sub-title lang="el"/>
     <desc lang="pt">Ψυχαγωγία</desc>
     <length units="minutes">349</length>
     <rating>
@@ -84,8 +84,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501031200" start="202501030600">
-    <title lang="pt">Το Νέο Χριστουγεννιάτικο Κανάλι του ERTFLIX </title>
-    <sub-title lang="pt"/>
+    <title lang="el">Το Νέο Χριστουγεννιάτικο Κανάλι του ERTFLIX </title>
+    <sub-title lang="el"/>
     <desc lang="pt">Ψυχαγωγία</desc>
     <length units="minutes">360</length>
     <rating>
@@ -94,8 +94,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501031800" start="202501031200">
-    <title lang="pt">Το Νέο Χριστουγεννιάτικο Κανάλι του ERTFLIX </title>
-    <sub-title lang="pt"/>
+    <title lang="el">Το Νέο Χριστουγεννιάτικο Κανάλι του ERTFLIX </title>
+    <sub-title lang="el"/>
     <desc lang="pt">Ψυχαγωγία</desc>
     <length units="minutes">360</length>
     <rating>
@@ -104,8 +104,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501031925" start="202501031800">
-    <title lang="pt">Τα Μαγικά Παπούτσια [Magical Christmas Shoes]</title>
-    <sub-title lang="pt"/>
+    <title lang="el">Τα Μαγικά Παπούτσια [Magical Christmas Shoes]</title>
+    <sub-title lang="el"/>
     <desc lang="pt">Έτος παραγωγής: 2019 Όταν η Νόελ πέφτει πάνω στα «μαγικά» παπούτσια, ξεκινάει ένα ιδιόρρυθμο ταξίδι που αναζωπυρώνει τη χριστουγεννιάτικη χαρά της και πυροδοτεί ένα απροσδόκητο ειδύλλιο. Σκηνοθεσία: Ρόμπιν ΝτιουνΣενάριο: Ρίκι Καστανέδα, Μέγκαν ΧόκινΠρωταγωνιστούν: Έριν Κάρπλακ, Ντέιμον Ρούνιαν, Τζενέλ Γουίλιαμς, Ντρου Νέλσον, Χαουαρντ Χούβερ</desc>
     <length units="minutes">85</length>
     <rating>
@@ -114,8 +114,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501032050" start="202501031925">
-    <title lang="pt">Το Μενού των Χριστουγέννων [Christmas on the Menu]</title>
-    <sub-title lang="pt"/>
+    <title lang="el">Το Μενού των Χριστουγέννων [Christmas on the Menu]</title>
+    <sub-title lang="el"/>
     <desc lang="pt">Έτος παραγωγής: 2020 Η διάσημη σεφ Τζόσι δημιουργεί ένα εορταστικό μενού για το νέο εστιατόριο της μητέρας της. Το μενού θα αξιολογήσει ο κριτικός φαγητού Τάνερ, εξαιτίας του οποίου η Τζόσι έχασε πρόσφατα μία μεγάλη επαγγελματική ευκαιρία. Σκηνοθεσία: Τζέικ ΧέλγκρενΣενάριο: Τζέικ ΧέλγκρενΠρωταγωνιστούν: Κιμ Σόουν, Κλέϊτον Τζέιμς</desc>
     <length units="minutes">85</length>
     <rating>
@@ -124,8 +124,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501032211" start="202501032050">
-    <title lang="pt">Μαγικά Xριστουγεννιάτικα Mπισκότα [Gingerbread Miracle]</title>
-    <sub-title lang="pt"/>
+    <title lang="el">Μαγικά Xριστουγεννιάτικα Mπισκότα [Gingerbread Miracle]</title>
+    <sub-title lang="el"/>
     <desc lang="pt">Έτος παραγωγής: 2021 Η Μάγια είναι μια ανεξάρτητη δικηγόρος που, μετά από μια μικρή αναποδιά, ζει στο διαμέρισμα πάνω από το γκαράζ των γονιών της και χρησιμοποιεί την &quot;Παναδερία Κασίγιας&quot; ως ανεπίσημο γραφείο της τα τελευταία δύο χρόνια. Σκηνοθεσία: Μάικλ ΣκοτΣενάριο: Τζον Μπένζαμιν Μάρτιν, Έμα Κλερ ΜάρτινΠρωταγωνιστούν: Μέριτ Πάτερσον</desc>
     <length units="minutes">81</length>
     <rating>
@@ -134,8 +134,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501032355" start="202501032211">
-    <title lang="pt">La Bamba </title>
-    <sub-title lang="pt"/>
+    <title lang="el">La Bamba </title>
+    <sub-title lang="el"/>
     <desc lang="pt">Έτος παραγωγής: 1987 Η ιστορία του 17χρονου Ρίτσι Βάλενς, του Μεξικανοαμερικανού αγρότη, του οποίου το πάθος για τη μουσική τον μετέτρεψε στον εμπνευσμένο δημιουργό των πιο απίθανων μουσικών επιτυχιών της ροκ εν ρολ στη δεκαετία του 1950. Σκηνοθεσία: Λούις ΒαλντέςΠρωταγωνιστούν: Λου Ντάιαμοντ Φίλιπς, Εσάι Μοράλες, Ντανιέλ φον Ζέρνεκ, Ροσάντα ΝτεΣότο</desc>
     <length units="minutes">104</length>
     <rating>
@@ -144,8 +144,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501040600" start="202501032355">
-    <title lang="pt">Το Νέο Χριστουγεννιάτικο Κανάλι του ERTFLIX </title>
-    <sub-title lang="pt"/>
+    <title lang="el">Το Νέο Χριστουγεννιάτικο Κανάλι του ERTFLIX </title>
+    <sub-title lang="el"/>
     <desc lang="pt">Ψυχαγωγία</desc>
     <length units="minutes">365</length>
     <rating>
@@ -154,8 +154,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501041200" start="202501040600">
-    <title lang="pt">Το Νέο Χριστουγεννιάτικο Κανάλι του ERTFLIX </title>
-    <sub-title lang="pt"/>
+    <title lang="el">Το Νέο Χριστουγεννιάτικο Κανάλι του ERTFLIX </title>
+    <sub-title lang="el"/>
     <desc lang="pt">Ψυχαγωγία</desc>
     <length units="minutes">360</length>
     <rating>
@@ -164,8 +164,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501041800" start="202501041200">
-    <title lang="pt">Το Νέο Χριστουγεννιάτικο Κανάλι του ERTFLIX </title>
-    <sub-title lang="pt"/>
+    <title lang="el">Το Νέο Χριστουγεννιάτικο Κανάλι του ERTFLIX </title>
+    <sub-title lang="el"/>
     <desc lang="pt">Ψυχαγωγία</desc>
     <length units="minutes">360</length>
     <rating>
@@ -174,8 +174,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501041923" start="202501041800">
-    <title lang="pt">Χριστούγεννα κάτω απ&apos; τ&apos; Αστέρια [It&apos;s Christmas, Eve]</title>
-    <sub-title lang="pt"/>
+    <title lang="el">Χριστούγεννα κάτω απ&apos; τ&apos; Αστέρια [It&apos;s Christmas, Eve]</title>
+    <sub-title lang="el"/>
     <desc lang="pt">Έτος παραγωγής: 2018 Ως προσωρινή σχολική επιθεωρήτρια, η Ιβ περικόπτει τους σχολικούς προϋπολογισμούς και τώρα βρίσκεται στη γενέτειρά της, όπου η υπόθεση είναι προσωπική. Σκηνοθεσία: Τίμπορ ΤάκατςΣενάριο: Τρέισι Αντρίν, Μαρκ ΑμάτοΠρωταγωνιστούν: Λι Αν Ράιμς, Τάιλερ Χάινς, Γκουίνιθ Γουόλς, Λόρι Μέρντοχ, Ίντεν Σάμερ Γκίλμορ</desc>
     <length units="minutes">83</length>
     <rating>
@@ -184,8 +184,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501042058" start="202501041923">
-    <title lang="pt">Χριστούγεννα με το…Ζόρι! [Christmas with the Kranks]</title>
-    <sub-title lang="pt"/>
+    <title lang="el">Χριστούγεννα με το…Ζόρι! [Christmas with the Kranks]</title>
+    <sub-title lang="el"/>
     <desc lang="pt">Έτος παραγωγής: 2004 Με την κόρη τους Μπλερ να βρίσκεται στο Περού με το Σώμα Ειρήνης, ο Λούθερ και η Νόρα Κρανκ αποφασίζουν για μια φορά να ξεχάσουν τη διακόσμηση, τα κέικ και τα πάρτι για τα Χριστούγεννα και να πάνε μια κρουαζιέρα στην Καραϊβική. Σκηνοθεσία: Τζο ΡοθΣενάριο: Κρις Κολόμπους, Τζον ΓκρίσαμΠρωταγωνιστούν: Τιμ Άλεν</desc>
     <length units="minutes">95</length>
     <rating>
@@ -194,8 +194,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501042224" start="202501042058">
-    <title lang="pt">Τα Μαγικά Παπούτσια [Magical Christmas Shoes]</title>
-    <sub-title lang="pt"/>
+    <title lang="el">Τα Μαγικά Παπούτσια [Magical Christmas Shoes]</title>
+    <sub-title lang="el"/>
     <desc lang="pt">Έτος παραγωγής: 2019 Όταν η Νόελ πέφτει πάνω στα «μαγικά» παπούτσια, ξεκινάει ένα ιδιόρρυθμο ταξίδι που αναζωπυρώνει τη χριστουγεννιάτικη χαρά της και πυροδοτεί ένα απροσδόκητο ειδύλλιο. Σκηνοθεσία: Ρόμπιν ΝτιουνΣενάριο: Ρίκι Καστανέδα, Μέγκαν ΧόκινΠρωταγωνιστούν: Έριν Κάρπλακ, Ντέιμον Ρούνιαν, Τζενέλ Γουίλιαμς, Ντρου Νέλσον, Χαουαρντ Χούβερ</desc>
     <length units="minutes">86</length>
     <rating>
@@ -204,8 +204,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501050005" start="202501042224">
-    <title lang="pt">Office Christmas Party </title>
-    <sub-title lang="pt"/>
+    <title lang="el">Office Christmas Party </title>
+    <sub-title lang="el"/>
     <desc lang="pt">Έτος παραγωγής: 2016 Όταν μία αυταρχική διευθύνουσα σύμβουλος αποφασίζει να κλείσει το οικονομικά αποτυχημένο εταιρικό παράρτημα του άσωτου αδελφού της, αυτός και οι ενθουσιώδεις συνάδελφοι του αποφασίζουν να διοργανώσουν ένα επικό πάρτι. Σκηνοθεσία: Τζος Γκόρντον &amp; Ουίλ ΣπεκΣενάριο: Τζάστιν Μάλεν , Λόρα ΣόλονΠρωταγωνιστούν: Τζένιφερ Άνιστον, Τι Τζέι Μίλερ, Τζέισον Μπέιτμαν</desc>
     <length units="minutes">101</length>
     <rating>
@@ -214,8 +214,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501050600" start="202501050005">
-    <title lang="pt">Το Νέο Χριστουγεννιάτικο Κανάλι του ERTFLIX </title>
-    <sub-title lang="pt"/>
+    <title lang="el">Το Νέο Χριστουγεννιάτικο Κανάλι του ERTFLIX </title>
+    <sub-title lang="el"/>
     <desc lang="pt">Ψυχαγωγία</desc>
     <length units="minutes">355</length>
     <rating>
@@ -224,8 +224,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501051200" start="202501050600">
-    <title lang="pt">Το Νέο Χριστουγεννιάτικο Κανάλι του ERTFLIX </title>
-    <sub-title lang="pt"/>
+    <title lang="el">Το Νέο Χριστουγεννιάτικο Κανάλι του ERTFLIX </title>
+    <sub-title lang="el"/>
     <desc lang="pt">Ψυχαγωγία</desc>
     <length units="minutes">360</length>
     <rating>
@@ -234,8 +234,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501051800" start="202501051200">
-    <title lang="pt">Το Νέο Χριστουγεννιάτικο Κανάλι του ERTFLIX </title>
-    <sub-title lang="pt"/>
+    <title lang="el">Το Νέο Χριστουγεννιάτικο Κανάλι του ERTFLIX </title>
+    <sub-title lang="el"/>
     <desc lang="pt">Ψυχαγωγία</desc>
     <length units="minutes">360</length>
     <rating>
@@ -244,8 +244,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501051924" start="202501051800">
-    <title lang="pt">Και Ζήσαν Αυτοί Καλά... [We Wish You A Mαrry Christmas]</title>
-    <sub-title lang="pt"/>
+    <title lang="el">Και Ζήσαν Αυτοί Καλά... [We Wish You A Mαrry Christmas]</title>
+    <sub-title lang="el"/>
     <desc lang="pt">Έτος παραγωγής: 2018 Η αναζήτηση για τον βιολογικό της πατέρα θα την οδηγήσει στον έρωτα και σε έναν εορταστικό γάμο. Σκηνοθεσία: Ντέιβιντ ΓουάνινγκΠρωταγωνιστούν: Έριν Κράκαου, Νίαλ Μάτερ, Γουέντι Μάλικ, Π. Λιν Τζόνσον</desc>
     <length units="minutes">84</length>
     <rating>
@@ -254,8 +254,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501052050" start="202501051924">
-    <title lang="pt">Το Παντοτινό Πνεύμα των Χριστουγέννων</title>
-    <sub-title lang="pt"/>
+    <title lang="el">Το Παντοτινό Πνεύμα των Χριστουγέννων</title>
+    <sub-title lang="el"/>
     <desc lang="pt">Έτος παραγωγής: 2022 Η Κάθριν είναι το φάντασμα των φετινών Χριστουγέννων και αποστολή της είναι να βοηθήσει μια ψυχή, τον Πίτερ, να ξαναβρεί το πνεύμα των Χριστουγέννων. Μόνο που αυτή η χρονιά τής επιφυλάσσει κάτι αναπάντεχο. Σκηνοθεσία: Ριτς ΝιούιΠρωταγωνιστούν: Κιμ Ματούλα, Ίαν Χάρτινγκ, Λόρι Ταν Τσιν, Ρέτζιναλντ Βελ Τζόνσον, Μπεθ Λίβελ</desc>
     <length units="minutes">86</length>
     <rating>
@@ -264,8 +264,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501052224" start="202501052050">
-    <title lang="pt">Χριστουγεννιάτικες Εκπλήξεις [Happiest Season] </title>
-    <sub-title lang="pt"/>
+    <title lang="el">Χριστουγεννιάτικες Εκπλήξεις [Happiest Season] </title>
+    <sub-title lang="el"/>
     <desc lang="pt"> Η πρώτη συνάντηση με την οικογένεια της φίλης σας μπορεί να είναι δύσκολη. Το να σχεδιάζεις να της κάνεις πρόταση γάμου στο ετήσιο χριστουγεννιάτικο δείπνο της οικογένειάς της είναι ακόμη πιο δύσκολο. Σκηνοθεσία: Κλέα ΝτυΒάλΣενάριο: Κλέα ΝτυΒάλ, Μέρι ΧόλαντΠρωταγωνιστούν: Κρίστεν Στιούαρτ, Μακένζι Ντέιβις, Άλισον Μπρι, Όμπρεϊ Πλάζα, Νταν Λέβι, Μέρι Χόλαντ</desc>
     <length units="minutes">94</length>
     <rating>
@@ -274,8 +274,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501052347" start="202501052224">
-    <title lang="pt">Τα πιο Γλυκά Χριστούγεννα [A Sweet Christmas Romance]</title>
-    <sub-title lang="pt"/>
+    <title lang="el">Τα πιο Γλυκά Χριστούγεννα [A Sweet Christmas Romance]</title>
+    <sub-title lang="el"/>
     <desc lang="pt">Έτος παραγωγής: 2019 Όταν η διακοσμήτρια τροφίμων Χόλι επιστρέφει στο σπίτι της για τα Χριστούγεννα, μαθαίνει ότι η Λορέτα, η ιδιοκτήτρια του αγαπημένου ζαχαροπλαστείου των παιδικών της χρόνων, αποσύρεται και έχει ξεκινήσει έναν διαγωνισμό. Σκηνοθεσία: Μάικλ ΡόμπινσονΣενάριο: Κιμ ΆιζοΠρωταγωνιστούν: Αντέλαιντ Κέιν, Γκρέιστον Χολτ</desc>
     <length units="minutes">83</length>
     <rating>
@@ -284,8 +284,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501060600" start="202501052347">
-    <title lang="pt">Το Νέο Χριστουγεννιάτικο Κανάλι του ERTFLIX </title>
-    <sub-title lang="pt"/>
+    <title lang="el">Το Νέο Χριστουγεννιάτικο Κανάλι του ERTFLIX </title>
+    <sub-title lang="el"/>
     <desc lang="pt">Ψυχαγωγία</desc>
     <length units="minutes">373</length>
     <rating>
@@ -294,8 +294,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501061200" start="202501060600">
-    <title lang="pt">Το Νέο Χριστουγεννιάτικο Κανάλι του ERTFLIX </title>
-    <sub-title lang="pt"/>
+    <title lang="el">Το Νέο Χριστουγεννιάτικο Κανάλι του ERTFLIX </title>
+    <sub-title lang="el"/>
     <desc lang="pt">Ψυχαγωγία</desc>
     <length units="minutes">360</length>
     <rating>
@@ -304,8 +304,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501061800" start="202501061200">
-    <title lang="pt">Το Νέο Χριστουγεννιάτικο Κανάλι του ERTFLIX </title>
-    <sub-title lang="pt"/>
+    <title lang="el">Το Νέο Χριστουγεννιάτικο Κανάλι του ERTFLIX </title>
+    <sub-title lang="el"/>
     <desc lang="pt">Ψυχαγωγία</desc>
     <length units="minutes">360</length>
     <rating>
@@ -314,8 +314,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501061921" start="202501061800">
-    <title lang="pt">Ένας Αϊ-Βασίλης για τη Χόλι [Santa&apos;s Boots]</title>
-    <sub-title lang="pt"/>
+    <title lang="el">Ένας Αϊ-Βασίλης για τη Χόλι [Santa&apos;s Boots]</title>
+    <sub-title lang="el"/>
     <desc lang="pt">Έτος παραγωγής: 2018 Η Χόλι επιστρέφει στο σπίτι της για τα Χριστούγεννα και εργάζεται ως ξωτικό του Αϊ-Βασίλη στο κατάστημα της οικογένειάς της. Εκεί γνωρίζει έναν νεαρό αντικαταστάτη του Αϊ-Βασίλη, τον Νικ και τον ερωτεύεται. Σκηνοθεσία: Σον ΤόλεσονΣενάριο: Σάνον Φιπς, Σον ΤόλεσονΠρωταγωνιστούν: Μέγκαν Χίλτι, Νόα Μιλς, Πατρίσια Ίσαακ, Τζουν Σκουίμπ</desc>
     <length units="minutes">81</length>
     <rating>
@@ -324,8 +324,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501062042" start="202501061921">
-    <title lang="pt">Έρωτας και Σοκολάτες [The Christmas Chocolatier]</title>
-    <sub-title lang="pt"/>
+    <title lang="el">Έρωτας και Σοκολάτες [The Christmas Chocolatier]</title>
+    <sub-title lang="el"/>
     <desc lang="pt">Έτος παραγωγής: 2024 Στο μαγικό σκηνικό των χριστουγεννιάτικων αγορών στο παλάτι Schönbrunn στη Βιέννη, αυτή η συναρπαστική ιστορία παρακολουθεί τη ζωή της Σάρλοτ Ντόμπλερ. Σκηνοθεσία: Λιφ ΜπρίστοουΣενάριο: Άγκνες ΜπρίστοουΠρωταγωνιστούν: Μπρίτανι Μπρίστοου, Κάθριν Ντίσερ, Άνταμ Μποντζ, Μπράιαν Οκς, Σουζάν ΜακΚένι</desc>
     <length units="minutes">81</length>
     <rating>
@@ -334,8 +334,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501062204" start="202501062042">
-    <title lang="pt">Εκεί που Αρχίζει η Μαγεία [The Christmas Card]</title>
-    <sub-title lang="pt"/>
+    <title lang="el">Εκεί που Αρχίζει η Μαγεία [The Christmas Card]</title>
+    <sub-title lang="el"/>
     <desc lang="pt">Έτος παραγωγής: 2006 Κατά τη διάρκεια του πολέμου στο Αφγανιστάν, ο Λοχίας Κόντι Κάλεν λαμβάνει μια χριστουγεννιάτικη κάρτα από μια εκκλησιαστική ενορία, η οποία στέλνει κάρτες σε ορφανούς στρατιώτες ως κοινωνική προσφορά. Σκηνοθεσία: Στίβεν ΜπριτζγουότερΠρωταγωνιστούν: Έντουαρντ Άσνερ, Τζον Νιούυτον, Άλις Έβανς, Λόις Νέτλετον, Πίτερ Τζέισον</desc>
     <length units="minutes">82</length>
     <rating>
@@ -344,8 +344,8 @@
     <category lang="pt">0xFF</category>
   </programme>
   <programme channel="ERTChristmas" stop="202501062331" start="202501062204">
-    <title lang="pt">Χριστουγεννιάτικος Άγγελος [Christmas Angel]</title>
-    <sub-title lang="pt"/>
+    <title lang="el">Χριστουγεννιάτικος Άγγελος [Christmas Angel]</title>
+    <sub-title lang="el"/>
     <desc lang="pt">Έτος παραγωγής: 2009 Η Άσλεϊ βρίσκει δουλειά χάρη στον γείτονά της Νικ, ως βοηθός του. Τι πρέπει να κάνει; Nα βοηθάει τους άλλους. Δεν πρέπει, όμως, να πει σε κανέναν ότι το νέο της αφεντικό είναι ένα είδος Μυστικού Άγιου Βασίλη. Σκηνοθεσία: Μπράιν ΜπρουΣενάριο: Σκοτ Τσάμπιον, Μπρίτανι Γουίσκομπ, Μπράιν ΜπρουΠρωταγωνιστούν: Κάρι Χόκερ, Κέι-Σι Κλάιντ</desc>
     <length units="minutes">87</length>
     <rating>
